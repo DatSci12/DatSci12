@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 
-💬 Ask me about Databricks, particularly Data & AI projects
+💬 Ask me about Data & AI projects
 
-- 🔭 I’m currently working on **Data & AI Projects**
+- 🔭 I’m currently working on **Agentic AI Projects**
 
 - 🌱 I’m currently learning **Agentic Systems**
 
