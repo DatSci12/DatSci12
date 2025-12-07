@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-💬 Ask me about Data & AI projects
+💬 Ask me about ## Data & AI projects ##
 
 - 🔭 I’m currently working on **Agentic AI Projects** and **Agentic Systems**
 
