@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Agentic AI Projects** and **Agentic Systems**
 
-- 👯 I’m design and collaborate on **Agentic AI Systems, Hackathons, & Databricks Data & AI Projects**
+- 👯 I design and collaborate on **Agentic AI Systems, Hackathons, & Databricks Data & AI Projects**
  
 
 <!-- 📫 ## How to reach me: ##
