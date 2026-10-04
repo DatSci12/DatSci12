@@ -998,7 +998,7 @@ Organizational Knowledge
 Workflow
 ```
 
-## Final Teaching Message
+## Final Message
 
 > **Yesterday:**  
 > AI answered questions about enterprise data.
